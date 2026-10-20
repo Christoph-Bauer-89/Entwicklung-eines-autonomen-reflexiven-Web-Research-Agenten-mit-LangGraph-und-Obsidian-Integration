@@ -48,6 +48,14 @@ Um die Limitierungen des linearen Ansatzes zu überwinden, wurde das System zu e
 
 ---
 
+## 📝 Obsidian-Integration & Ergebnis-Preview
+
+Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typografie direkt in den lokalen Obsidian-Vault exportiert, sodass die Rechercheergebnisse nahtlos in das persönliche Wissensmanagement (PKM) einfließen[cite: 4].
+
+![Obsidian Vault Generated Report](obsidian-vault-generated-report.png)[cite: 4]
+
+---
+
 ## 📈 Key Learnings & Fazit
 
 * **MVP-First-Ansatz:** Die Validierung über einen linearen Agenten schuf ein stabiles Fundament, bevor die Komplexität durch LangGraph erhöht wurde.
@@ -57,7 +65,7 @@ Um die Limitierungen des linearen Ansatzes zu überwinden, wurde das System zu e
 
 ---
 
-## 📂 Repository-Struktur & Obsidian Preview
+## 📂 Repository-Struktur
 
 ```text
 ├── 🐍 web_research_agent.py       # Hauptskript für den reflexiven Agenten (LangGraph)
@@ -67,4 +75,4 @@ Um die Limitierungen des linearen Ansatzes zu überwinden, wurde das System zu e
 │   └── 📝 *.md                    # Generierte Markdown-Reports mit YAML-Frontmatter
 ├── 🖼️ langgraph-agent-workflow-code.png # Workflow-Code-Architektur
 ├── 🖼️ agent-execution-terminal-log.png   # Konsolen-Ausführungsprotokoll
-└── 🖼️ obsidian-vault-generated-report.png # Obsidian Ansicht des Reports
+└── 🖼️ obsidian-vault-generated-report.png # Obsidian Ansicht des Reports[cite: 4]
