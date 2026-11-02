@@ -54,10 +54,10 @@ Um die Limitisierungen des linearen Ansatzes zu überwinden, wurde das System zu
 [Schreibe Report]            [Such-Query verfeinern] ---> (zurück zu Websuche)
 ```
 
-📂 Obsidian-Integration & Ergebnis-Preview
+## 📂 Obsidian-Integration & Ergebnis-Preview
 Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typographie direkt in den lokalen Obsidian-Vault exportiert...
 
-💡 Key Learnings & Fazit
+## 💡 Key Learnings & Fazit
 MVP-First-Ansatz: Die Validierung über einen linearen Agenten schuf ein stabiles Fundament, bevor die Komplexität durch LangGraph erhöht wurde.
 
 Echte Autonomie durch Zyklen: Erst durch zustandsbasierte Graphen und bedingte Rücksprünge wird ein Agent zu einem selbstkorrigierenden System.
@@ -66,7 +66,7 @@ Sicherheitsnetze sind essenziell: Ohne harte Schleifenlimits neigen reflexive Ag
 
 Nahtlose PKM-Verknüpfung: Die automatisierte Formatierung für Obsidian verwandelt das Web-Research in eine direkt nutzbare, durchsuchbare Wissensbasis.
 
-📁 Repository-Struktur
+## 📁 Repository-Struktur
 ```text
 ├── Scripts/
 │   ├── web_research_agent.py       # Hauptskript für den reflexiven Agenten (LangGraph)
