@@ -58,13 +58,13 @@ Um die Limitisierungen des linearen Ansatzes zu überwinden, wurde das System zu
 Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typographie direkt in den lokalen Obsidian-Vault exportiert...
 
 ## 💡 Key Learnings & Fazit
-MVP-First-Ansatz: Die Validierung über einen linearen Agenten schuf ein stabiles Fundament, bevor die Komplexität durch LangGraph erhöht wurde.
+**MVP-First-Ansatz:** Die Validierung über einen linearen Agenten schuf ein stabiles Fundament, bevor die Komplexität durch LangGraph erhöht wurde.
 
-Echte Autonomie durch Zyklen: Erst durch zustandsbasierte Graphen und bedingte Rücksprünge wird ein Agent zu einem selbstkorrigierenden System.
+**Echte Autonomie durch Zyklen:** Erst durch zustandsbasierte Graphen und bedingte Rücksprünge wird ein Agent zu einem selbstkorrigierenden System.
 
-Sicherheitsnetze sind essenziell: Ohne harte Schleifenlimits neigen reflexive Agenten zu unnötigen API-Schleifen.
+**Sicherheitsnetze sind essenziell:** Ohne harte Schleifenlimits neigen reflexive Agenten zu unnötigen API-Schleifen.
 
-Nahtlose PKM-Verknüpfung: Die automatisierte Formatierung für Obsidian verwandelt das Web-Research in eine direkt nutzbare, durchsuchbare Wissensbasis.
+**Nahtlose PKM-Verknüpfung:** Die automatisierte Formatierung für Obsidian verwandelt das Web-Research in eine direkt nutzbare, durchsuchbare Wissensbasis.
 
 ## 📁 Repository-Struktur
 ```text
