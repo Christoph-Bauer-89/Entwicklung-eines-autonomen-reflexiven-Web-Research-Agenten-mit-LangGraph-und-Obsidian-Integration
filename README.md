@@ -52,9 +52,10 @@ Um die Limitisierungen des linearen Ansatzes zu überwinden, wurde das System zu
    (Daten OK)                  (Mehr Info nötig)
         ▼                           ▼
 [Schreibe Report]            [Such-Query verfeinern] ---> (zurück zu Websuche)
+```
 
-`## 📂 Obsidian-Integration & Ergebnis-Preview
-Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typographie direkt in den lokalen Obsidian-Vault exportiert, sodass die Rechercheergebnisse nahtlos in das persönliche Wissensmanagement (PKM) einfließen.
+📂 Obsidian-Integration & Ergebnis-Preview
+Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typographie direkt in den lokalen Obsidian-Vault exportiert...
 
 💡 Key Learnings & Fazit
 MVP-First-Ansatz: Die Validierung über einen linearen Agenten schuf ein stabiles Fundament, bevor die Komplexität durch LangGraph erhöht wurde.
