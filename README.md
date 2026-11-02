@@ -75,6 +75,5 @@ Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter un
 │   ├── langgraph-agent-workflow-code.png
 │   ├── agent-execution-terminal-log.png
 │   └── obsidian-vault-generated-report.png
-├── .gitignore                      # Ausschluss für .env, __pycache__ etc.
 ├── requirements.txt                # Python-Abhängigkeiten
 └── README.md                       # Projektdokumentation
