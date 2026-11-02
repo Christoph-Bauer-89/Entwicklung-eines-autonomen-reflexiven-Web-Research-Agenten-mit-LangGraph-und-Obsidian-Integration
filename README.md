@@ -46,12 +46,12 @@ Um die Limitisierungen des linearen Ansatzes zu überwinden, wurde das System zu
 * **Bedingte Kanten (Conditional Routing):** Der Graph verzweigt dynamisch – bei unvollständigen Daten springt das System zurück zum Such-Knoten, andernfalls wird der Schreib-Knoten für den Obsidian-Export angesteuert.
 
 ```text
-[Führe Websuche aus] ──> [Evaluiere Rohdaten]
-                              │
-               ┌──────────────┴──────────────┐
-       (Daten reichen aus)           (Braucht mehr Info)
-               ▼                             ▼
-       [Schreibe Report] ──(END)──< [Such-Query verfeinern]
+[Websuche] ---> [Evaluere Rohdaten]
+                      |
+        ┌─────────────┴─────────────┐
+   (Daten OK)                  (Mehr Info nötig)
+        ▼                           ▼
+[Schreibe Report]            [Such-Query verfeinern] ---> (zurück zu Websuche)
 
 📂 Obsidian-Integration & Ergebnis-Preview
 Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typographie direkt in den lokalen Obsidian-Vault exportiert, sodass die Rechercheergebnisse nahtlos in das persönliche Wissensmanagement (PKM) einfließen.
