@@ -53,7 +53,7 @@ Um die Limitisierungen des linearen Ansatzes zu überwinden, wurde das System zu
         ▼                           ▼
 [Schreibe Report]            [Such-Query verfeinern] ---> (zurück zu Websuche)
 
-📂 Obsidian-Integration & Ergebnis-Preview
+`## 📂 Obsidian-Integration & Ergebnis-Preview
 Der finale Markdown-Report wird vollautomatisch mit sauberem YAML-Frontmatter und strukturierter Typographie direkt in den lokalen Obsidian-Vault exportiert, sodass die Rechercheergebnisse nahtlos in das persönliche Wissensmanagement (PKM) einfließen.
 
 💡 Key Learnings & Fazit
