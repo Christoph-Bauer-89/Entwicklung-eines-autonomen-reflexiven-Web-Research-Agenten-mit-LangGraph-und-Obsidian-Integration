@@ -46,7 +46,7 @@ Um die Limitisierungen des linearen Ansatzes zu überwinden, wurde das System zu
 * **Bedingte Kanten (Conditional Routing):** Der Graph verzweigt dynamisch – bei unvollständigen Daten springt das System zurück zum Such-Knoten, andernfalls wird der Schreib-Knoten für den Obsidian-Export angesteuert.
 
 ```text
-[Websuche] ---> [Evaluere Rohdaten]
+[Websuche] ---> [Evaluiere Rohdaten]
                       |
         ┌─────────────┴─────────────┐
    (Daten OK)                  (Mehr Info nötig)
